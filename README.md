@@ -1,0 +1,3 @@
+# web
+
+JAMStack-based website.
